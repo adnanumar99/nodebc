@@ -1,3 +1,9 @@
-let variableWithoutDefinition = undefined;
+let number = 10;
 
-console.log(variableWithoutDefinition);
+--number;
+
+console.log(number); // 9
+
+number--;
+
+console.log(number); // 8

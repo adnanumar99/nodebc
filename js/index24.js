@@ -1,3 +1,3 @@
-var userName = 'JavaScript'
+var userName = null
 
 console.log('username : ', userName)
