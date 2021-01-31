@@ -1,5 +1,3 @@
-console.log(`firstName  
-lastName
-Age
-Address 
-dateOfBirth`);
+let variableWithoutDefinition = undefined;
+
+console.log(variableWithoutDefinition);
