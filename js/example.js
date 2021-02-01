@@ -1,9 +1,6 @@
-let number = 10;
+var userCounnter = 10
 
---number;
-
-console.log(number); // 9
-
-number--;
-
-console.log(number); // 8
+for(i=10;i>0;--i){
+    result = i - 1
+    console.log(i, result)
+}
