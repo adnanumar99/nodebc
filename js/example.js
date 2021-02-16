@@ -6,9 +6,6 @@ for(i=userCounnter;i > 0;i--){
 }
 */
 
-
-
-var addNum = function(a,b)
-{
-    return a+b;
-};
+for (var i = 4; i >= 0; i--) {
+    console.log("*".repeat(i));
+  }
