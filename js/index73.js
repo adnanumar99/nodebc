@@ -1,10 +1,8 @@
 var  counter = "*" ;
-var i=1
+var i=10
 result = ''
-while(i <=10){
+while(i >=0){
   result = result + counter.charAt(0);
-  console.log(result,i)
-  i++ 
+  console.log(result);
+  i--;
 }
-
-
